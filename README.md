@@ -4,7 +4,7 @@
 <a href="https://arxiv.org/abs/2412.20631"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> 
 <a href="https://zhuanlan.zhihu.com/p/17315205259"><img src="https://img.shields.io/badge/zhihu-blue"></a> 
 
-[Haoran Wei*](https://scholar.google.com/citations?user=J4naK0MAAAAJ&hl=en), Youyang Yin*, Yumeng Li, Jia Wang, [Liang Zhao](https://scholar.google.com.hk/citations?user=uJJ5zskAAAAJ&hl=zh-CN&oi=sra),  [Jianjian Sun](https://scholar.google.com/citations?user=MVZrGkYAAAAJ&hl=en), [Zheng Ge](https://joker316701882.github.io/), [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en), [Daxin Jiang](https://scholar.google.com.hk/citations?user=N-wAHCoAAAAJ&hl=zh-CN&oi=ao)
+[Haoran Wei*](https://scholar.google.com/citations?user=J4naK0MAAAAJ&hl=en), Youyang Yin*, Yumeng Li, Jia Wang, [Liang Zhao](https://scholar.google.com.hk/citations?user=uJJ5zskAAAAJ&hl=zh-CN&oi=sra),  [Jianjian Sun](https://scholar.google.com/citations?user=MVZrGkYAAAAJ&hl=en), [Zheng Ge](https://joker316701882.github.io/), [Xiangyu Zhang](https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en), [Daxin Jiang](https://scholar.google.com.hk/citations?user=N-wAHCoAAAAJ&hl=zh-CN&oi=ao) 
 
 <p align="left">
 <img src="assets/img1.jpg" style="width: 255px" align=left>
